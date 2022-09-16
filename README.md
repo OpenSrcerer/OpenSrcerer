@@ -16,6 +16,5 @@ Hello. I'm Daniel, a developer with a passion: making useful stuff. Thanks for v
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=opensrcerer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=opensrcerer&icon=3&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=opensrcerer&color=3acbc4&style=for-the-badge)
