@@ -11,6 +11,6 @@ Hello. I'm Daniel, a developer with a passion: making useful stuff. Thanks for v
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=opensrcerer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=opensrcerer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 ![](https://komarev.com/ghpvc/?username=opensrcerer&color=3acbc4&style=for-the-badge)
