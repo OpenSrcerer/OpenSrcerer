@@ -1,4 +1,4 @@
-<img src=liq.gif>
+<img src=backgroundoptimized.gif>
 
 # 💫 About Me:
 Hello. I'm Daniel, a developer with a passion: making useful stuff. Thanks for visiting my bio.
