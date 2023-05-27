@@ -14,6 +14,6 @@ Hello. I'm Daniel, a developer with a passion: making useful stuff. Thanks for v
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=opensrcerer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=opensrcerer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 ![](https://komarev.com/ghpvc/?username=opensrcerer&color=3acbc4&style=for-the-badge)
