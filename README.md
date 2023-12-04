@@ -13,7 +13,7 @@ Hello. I'm Daniel, a developer with a passion: making useful stuff. Thanks for v
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 # ⚡️ My Certs:
-<a href="https://www.credly.com/badges/082d38fd-e56b-4bff-bfdf-59b19297555e"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/082d38fd-e56b-4bff-bfdf-59b19297555e"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100"></a>
 
 ---
 ![](https://komarev.com/ghpvc/?username=opensrcerer&color=3acbc4&style=for-the-badge)
